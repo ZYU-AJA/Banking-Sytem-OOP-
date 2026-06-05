@@ -50,8 +50,9 @@ python3 Atm.py
 ```
 
 ## 📸 Screenshot
+### Main Menu
 
-(Add screenshots here)
+![Main Menu](Screenshot_20260605-114403.jpg)
 
 ## 🏗️ System Design
 
@@ -70,7 +71,9 @@ Account
   ├── Deposit
   ├── Withdraw
   ├── Transfer
+  ├── check balance 
   └── History
+  ├── check history
   │
   ▼
 JSON Database
